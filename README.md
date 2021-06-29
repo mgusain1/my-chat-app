@@ -1,4 +1,4 @@
-# MYichat Application
+# MYchat Application
 
 
 
